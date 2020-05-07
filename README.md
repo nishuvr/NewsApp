@@ -1,5 +1,5 @@
 ## NewsApp
-NewsApp is a cross platform (iOS and Android) React Native News app, created using NewsAPI.org fr the news data and NativeBase.io for the UI.
+NewsApp is a cross platform (iOS and Android) React Native News app, created using NewsAPI.org for the news data and NativeBase.io for the UI.
 To run the app:
 * clone / download the repo
 * cd directory
